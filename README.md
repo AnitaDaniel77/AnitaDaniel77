@@ -1,15 +1,23 @@
 ## Hi there 👋
-<p> I am a Junior Web Developer who is currently working as a Service Consultant at Capitec Bank. Also studying Software Engineering Back-End through ALX. My goal is to become a Back-End Software Engineer. This is where I will be sharing my learning progress and projects. </p>
+## 👋 Hi there  
+I am a Junior Web Developer currently working as a Service Consultant at Capitec Bank, and studying Software Engineering (Back-End) through ALX.  
+My goal is to become a Back-End Software Engineer.  
+This is where I share my learning progress and projects.
 
-<p>
-- 🔭 I’m currently working on How to use git bash.
-- 🌱 I’m currently learning command lines and prompts.
-- 📫 How to reach me: [Connect with me on LinkedIn](https://www.linkedin.com/in/anita-daniel-2929b513a/)
+---
 
-- ⚡ Fun fact: I dance Kizomba every once in a while around Johannesburg. </p>
--->
+### 🔭 Current Work
+- Learning how to use Git Bash
 
-<!--
-**AnitaDaniel77/AnitaDaniel77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Currently Learning
+- Command lines and prompts
+
+### 📫 How to Reach Me
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/anita-daniel-2929b513a/)
+
+### ⚡ Fun Facts
+- I dance Kizomba every once in a while around Johannesburg.
+- I still get excited every time I successfully center a `div` on the first try.
+
 
 
