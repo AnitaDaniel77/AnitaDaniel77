@@ -16,12 +16,12 @@ I learn best by doing, turning concepts into working code and documenting my pro
 ---
 
 ## 📓 Learning in Action
-I’m in the **“build and learn”** phase — focusing on small, complete projects that strengthen my fundamentals.
+I’m in the **“build and learn”** phase focusing on small, complete projects that strengthen my fundamentals.
 
 **Coming Soon:**
-- `html-css-mini-site` — My first responsive personal bio page.  
-- `javascript-practice` — Small scripts like a calculator and to‑do list.  
-- `git-bash-notes` — My growing collection of Git Bash commands and tips.
+- `html-css-mini-site` My first responsive personal bio page.  
+- `javascript-practice` Small scripts like a calculator and to‑do list.  
+- `git-bash-notes`  My growing collection of Git Bash commands and tips.
 
 ---
 
