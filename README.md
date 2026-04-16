@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Anita Daniel
 
-**Aspiring Back‑End Software Engineer** | **ALX Software Engineering Student** | **Lifelong Learner**
+**Aspiring Software Engineer** | **Software Engineering Student** | **Lifelong Learner**
 
 ---
 
 ## 🌟 About Me
-I’m currently working as a Service Consultant at Capitec Bank while studying Software Engineering (Back‑End) through ALX.  
-I learn best by doing — turning concepts into working code and documenting my progress along the way.
+I’m currently working as a IMI Java Trainee at Capitec Bank while studying Front-end Development and Java Programming through Umuzi.  
+I learn best by doing, turning concepts into working code and documenting my progress along the way.
 
 - 🌱 **Currently learning:** HTML, CSS, JavaScript fundamentals, Git & GitHub workflows, and command line basics.  
-- 🎯 **Goal:** Become a skilled Back‑End Software Engineer.  
+- 🎯 **Goal:** Become a skilled Software Engineer.  
 - 📍 **Location:** Johannesburg, South Africa.  
 - 💬 **Ask me about:** My learning journey, career switch, and how I’m building my skills step‑by‑step.
 
@@ -33,7 +33,7 @@ I’m in the **“build and learn”** phase — focusing on small, complete pro
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/anita-daniel-2929b513a/)  
-- **Email:** _Add your preferred contact email here_
+
 
 ---
 
