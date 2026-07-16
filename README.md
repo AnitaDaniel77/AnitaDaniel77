@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 About Me
-I’m currently working as a IMI Java Trainee at Capitec Bank while studying Front-end Development and Java Programming through Umuzi.  
+I’m currently working as a IMI Java Trainee at Capitec Bank while studying Software Engineering and Java Programming through Umuzi.  
 I learn best by doing, turning concepts into working code and documenting my progress along the way.
 
 - 🌱 **Currently learning:** HTML, CSS, JavaScript fundamentals, Git & GitHub workflows, and command line basics.  
