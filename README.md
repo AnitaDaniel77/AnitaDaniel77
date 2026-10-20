@@ -1,43 +1,25 @@
-# 👋 Hi, I'm Anita Daniel
+# Hi, I'm Anita Daniel
 
-**Aspiring Software Engineer** | **Software Engineering Student** | **Lifelong Learner**
+I'm an IMI Java Trainee at Capitec Bank, moving from banking operations into back-end software development. I have 3.5 years of banking experience, and I'm now building the Java skills to match.
 
----
+## What I've built
+- Little Lemon, a reserve-a-table app in React with routing, a live booking form, validation and unit tests: [little-lemon](https://github.com/AnitaDaniel77/little-lemon)
+- Java console apps: a Mood Tracker and a pet scheduling app, using collections, file handling and exception handling
+- The first two PayNest Java capstones, including a polymorphic checkout system across card, EFT and wallet payments
 
-## 🌟 About Me
-I’m currently working as a IMI Java Trainee at Capitec Bank while studying Software Engineering and Java Programming through Umuzi.  
-I learn best by doing, turning concepts into working code and documenting my progress along the way.
+## What I've completed
+- Meta Front-End Developer Professional Certificate
+- IBM: Introduction to Software Engineering, Java Programming for Beginners, Object-Oriented Programming in Java
+- Java App Development Project: Fundamentals, OOP & File I/O (SkillUp)
 
-- 🌱 **Currently learning:** HTML, CSS, JavaScript fundamentals, Git & GitHub workflows, and command line basics.  
-- 🎯 **Goal:** Become a skilled Software Engineer.  
-- 📍 **Location:** Johannesburg, South Africa.  
-- 💬 **Ask me about:** My learning journey, career switch, and how I’m building my skills step‑by‑step.
+## Working on now
+- IBM Java Developer Professional Certificate (HTML/CSS/JavaScript, then Git and GitHub)
+- Next up: Spring Framework and Java with databases
 
----
+## Tools
+Java, JavaScript, React, HTML, CSS, Git, GitHub, VS Code
 
-## 📓 Learning in Action
-I’m in the **“build and learn”** phase focusing on small, complete projects that strengthen my fundamentals.
+## Find me
+[LinkedIn](https://www.linkedin.com/in/anita-daniel-2929b513a)
 
-**Coming Soon:**
-- `html-css-mini-site` My first responsive personal bio page.  
-- `javascript-practice` Small scripts like a calculator and to‑do list.  
-- `git-bash-notes`  My growing collection of Git Bash commands and tips.
-
----
-
-## ⚡ Fun Facts
-- 💃 I enjoy dancing Kizomba in my free time.  
-- 🎯 I still celebrate every time I center a `div` on the first try.
-
----
-
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/anita-daniel-2929b513a/)  
-
-
----
-
-> _“Always learning, always building.”_
-
-
-
+Outside code, I dance Kizomba.
