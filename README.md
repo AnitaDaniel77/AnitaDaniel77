@@ -13,6 +13,7 @@ I'm an IMI Java Trainee at Capitec Bank, moving from banking operations into bac
 - Java App Development Project: Fundamentals, OOP & File I/O (SkillUp)
 
 ## Working on now
+- A website for DJ Lopes in React, Vite and Tailwind CSS (sticky header with social links, hero section, services and booking sections planned)
 - IBM Java Developer Professional Certificate (HTML/CSS/JavaScript, then Git and GitHub)
 - Next up: Spring Framework and Java with databases
 
